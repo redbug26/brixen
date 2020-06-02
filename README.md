@@ -6,17 +6,15 @@ description: Documentation temporaire
 
 ## Contrôles
 
-###  Dans la page d'intro:
+###  Dans le menu général:
 
-Clavier: Espace pour commencer le jeu, escape pour quitter vers le système   
-ou   
-Joystick: Fire1 pour commencer le jeu, fire2 pour quitter vers le système
+**Espace** \(ou **fire1**\) pour commencer le jeu  
+**Esc** \(ou **fire2**\) pour quitter vers le système 
 
-### Dans le jeu
+### En cours de partie:
 
- Clavier: Touche de direction, escape pour quitter vers le système   
-ou   
-Joystick: Fire2 pour se suicider
+**Flèche** \(ou **stick**\) gauche/droite,  
+Si vous êtes bloqué, vous avez été piégé, échappez vous avec la touche **esc** \(ou **fire2**\)
 
 ## Objectif du jeu
 
