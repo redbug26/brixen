@@ -6,7 +6,7 @@ description: Documentation temporaire
 
 ## Contrôles
 
-###  Dans le menu général:
+### Dans le menu général:
 
 **Espace** \(ou **fire1**\) pour commencer le jeu  
 **Esc** \(ou **fire2**\) pour quitter vers le système 
